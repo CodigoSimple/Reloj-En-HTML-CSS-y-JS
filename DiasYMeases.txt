@@ -1,0 +1,3 @@
+//arreglo de los dias y meses ordenados
+var dia = ["Domingo", " Lunes" ,"Martes", "Miercoles", "Jueves","viernes","Sabado"],
+    mes = ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"];
